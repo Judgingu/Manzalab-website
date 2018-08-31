@@ -1,0 +1,56 @@
+/* ===================================================================
+ * fonts.scss
+ *
+ * ------------------------------------------------------------------- */
+
+
+/*
+ * Gotham
+================================================================================ */
+@font-face {
+  font-family: "Gotham-Bold";
+  src: url("../fonts/gotham/TT/Gotham-Bold.ttf") format("truetype"); 
+  font-weight: 700;
+  font-style: normal; }
+
+@font-face {
+
+  font-family: "Gotham-Book";
+  src: url("../fonts/gotham/TT/Gotham-Book.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+
+}
+@font-face {
+
+  font-family: "Gotham-Black";
+  src: url("../fonts/gotham/TT/Gotham-Black.ttf") format("truetype"); 
+  font-weight: 800;
+  font-style: normal;
+
+}
+@font-face {
+
+  font-family: "Gotham-Light";
+  src: url("../fonts/gotham/TT/Gotham-Light.ttf") format("truetype"); 
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+
+  font-family: "Gotham-Medium";
+  src: url("../fonts/gotham/TT/Gotham-Medium.ttf") format("truetype"); 
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+
+  font-family: "Gotham-Thin";
+  src: url("../fonts/gotham/TT/Gotham-Thin.ttf") format("truetype"); 
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=fonts.css.map */
